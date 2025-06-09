@@ -67,7 +67,7 @@ backend/
 ### Frontend
 
 ```
-frontend/
+mobile/
 ├── .expo/
 ├── .vscode/
 ├── app/
